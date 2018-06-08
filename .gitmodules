@@ -2,3 +2,6 @@
 	path = docs
 	url = https://github.com/axibase/atsd
 	branch = master
+[submodule "use-cases"]
+	path = use-cases
+	url = https://github.com/axibase/atsd-use-cases

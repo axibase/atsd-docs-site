@@ -9,6 +9,8 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "use-cases:dev": "vuepress dev use-cases",
+    "use-cases:build": "vuepress build use-cases"
   }
 }
