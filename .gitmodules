@@ -5,3 +5,9 @@
 [submodule "use-cases"]
 	path = use-cases
 	url = https://github.com/axibase/atsd-use-cases
+[submodule "open-data-catalog"]
+	path = open-data-catalog
+	url = https://github.com/axibase/open-data-catalog
+[submodule "charts"]
+	path = charts
+	url = https://github.com/axibase/charts
