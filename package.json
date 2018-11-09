@@ -10,6 +10,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "charts:dev": "vuepress dev charts",
+    "charts:build": "vuepress build charts",
     "use-cases:dev": "vuepress dev use-cases",
     "use-cases:build": "vuepress build use-cases"
   }
