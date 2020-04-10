@@ -7,4 +7,4 @@
 	url = https://github.com/axibase/atsd-use-cases
 [submodule "charts"]
 	path = charts
-	url = https://github.com/axibase/charts
+	url = https://github.com/axibase/axibase-charts
